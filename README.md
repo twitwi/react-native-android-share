@@ -4,6 +4,10 @@ This fires off the default android share tray:
 
 <img src="http://i.imgur.com/avnu4ir.png" width="150">
 
+
+NOTE: React Native now implements share functionality [Read more](https://facebook.github.io/react-native/docs/share.html)
+
+
 ### Installl
 
 ```
